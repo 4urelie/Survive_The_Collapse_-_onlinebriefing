@@ -48,7 +48,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/survive-the-collapse.com\/how-to-looting\/"
+                 "value":"https:\/\/survive-the-collapse.com\/how-to-infographic\/"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -94,7 +94,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/W1571776tYo"
+                 "value":"https:\/\/www.youtube.com\/embed\/LedqMXtrUCU"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -130,7 +130,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/7wk5afevZ2g"
+                 "value":"https:\/\/www.youtube.com\/embed\/QtVjgQ_537Q"
                 }],
          "type":"tilelayer",
          "visible":false,
